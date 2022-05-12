@@ -22,7 +22,7 @@ ABC Game เป็นเกมที่ไว้สำหรับฝึกค�
 5. ท้ายเกมจะมีคะแนนบอก
 
 ## **YouTube**
-coming soon...
+> https://www.youtube.com/embed/yriDfXyGrJA
 
 ## **Poster**
 ![Poster](https://imgur.com/gLIlrJw.jpg)
