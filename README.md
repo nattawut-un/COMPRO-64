@@ -1,5 +1,5 @@
 # **ABC GAME** 🅰️🅱️
-〰️ Project for **Computer Programming** 2021, ITKMITL
+Project for **Computer Programming** 2021, ITKMITL
 
 ***Website >** https://abc-game-compro-64.vercel.app*
 
